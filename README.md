@@ -6,7 +6,7 @@ This project is a simple QR Code component built using **HTML** and **CSS**. It 
 
 ## Screenshot
 
-![QR Code Component]()
+![QR Code Component](qr-component.png)
 
 ## Features
 
